@@ -1,0 +1,9 @@
+{
+  "links": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "select_lang": "Dil Seçiniz",
+  "login_btn": "Giriş"
+}

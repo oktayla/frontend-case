@@ -1,0 +1,26 @@
+{
+  "welcome": {
+    "heading": "Hello world!",
+    "paragraphs": {
+      "one": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda, blanditiis consectetur cupiditate eum ex fugit, maiores maxime nesciunt, nihil officia possimus qui quidem rerum similique voluptatem. In, non.",
+      "two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium eos excepturi ipsa modi obcaecati officiis possimus, quos sapiente tempora! Magnam, quasi, sint! Consequuntur ducimus eum ipsum itaque magni, quos similique!",
+      "three": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ea esse excepturi impedit magni minus mollitia porro quibusdam sit voluptas! Aliquam aperiam dolor dolores iure nam officia sunt vero voluptates!"
+    }
+  },
+  "subtitle": {
+    "heading": "Subtitle",
+    "paragraphs": {
+      "one": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores exercitationem reiciendis unde? Consectetur cum cupiditate dolorum ex fuga id ipsum, nam necessitatibus praesentium quam quidem sapiente, similique sint, temporibus veniam?"
+    }
+  },
+  "dummy_title": {
+    "heading": "Dummy Title",
+    "paragraphs": {
+      "one": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque consectetur corporis deleniti dolorem ducimus enim expedita explicabo laboriosam officia pariatur perferendis placeat, possimus provident sed sint totam voluptates voluptatum!"
+    }
+  },
+  "buttons": {
+    "callus": "CALL US!",
+    "moreinfo": "MORE INFO"
+  }
+}

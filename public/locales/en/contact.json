@@ -1,0 +1,24 @@
+{
+  "title": "Keep in touch",
+  "text": "Feel free to contact us!",
+  "labels": {
+    "name": "Your Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "phone": "Your Phone",
+    "country": "Select Country"
+  },
+  "select_country": "Select Country...",
+  "countries": [
+    { "value": "TR", "label": "Turkey" },
+    { "value": "US", "label": "United States of America" },
+    { "value": "GB", "label": "United Kingdom" },
+    { "value": "DE", "label": "Germany" },
+    { "value": "SE", "label": "Sweden" },
+    { "value": "KE", "label": "Kenya" },
+    { "value": "BR", "label": "Brazil" },
+    { "value": "ZW", "label": "Zimbabwe" }
+  ],
+  "submit": "SEND MESSAGE",
+  "thanks": "Thanks for your message"
+}

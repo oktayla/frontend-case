@@ -1,0 +1,24 @@
+{
+  "title": "Bizimle İletişim Kurun",
+  "text": "İstediğiniz zaman bizimle iletişime geçebilirsiniz",
+  "labels": {
+    "name": "Adınız",
+    "email": "Eposta Adresiniz",
+    "message": "Mesajınız",
+    "phone": "Telefon Numaranız",
+    "country": "Ülke Seçiniz"
+  },
+  "select_country": "Ülke seçiniz...",
+  "countries": [
+    { "value": "TR", "label": "Türkiye" },
+    { "value": "US", "label": "Birleşik Devletler" },
+    { "value": "GB", "label": "Birleşik Krallık" },
+    { "value": "DE", "label": "Almanya" },
+    { "value": "SE", "label": "İsveç" },
+    { "value": "KE", "label": "Kenya" },
+    { "value": "BR", "label": "Brezilya" },
+    { "value": "ZW", "label": "Zimbabve" }
+  ],
+  "submit": "GÖNDER",
+  "thanks": "Mesajınız için teşekkürler."
+}

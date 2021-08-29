@@ -1,0 +1,10 @@
+{
+  "title": "Log in to your account!",
+  "labels": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password"
+  },
+  "login": "LOGIN",
+  "logout": "Logout"
+}

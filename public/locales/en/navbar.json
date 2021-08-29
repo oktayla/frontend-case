@@ -1,0 +1,9 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "select_lang": "Select Language",
+  "login_btn": "Login"
+}

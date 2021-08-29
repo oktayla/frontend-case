@@ -1,0 +1,10 @@
+{
+  "title": "Hesabınıza Giriş Yapın!",
+  "labels": {
+    "name": "İsim",
+    "email": "E-Posta",
+    "password": "Şifre"
+  },
+  "login": "GİRİŞ",
+  "logout": "Çıkış"
+}

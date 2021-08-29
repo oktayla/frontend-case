@@ -18,12 +18,10 @@ const Home = () => {
             <h3 className="h4">{ t('dummy_title.heading') }</h3>
             <p>{ t('dummy_title.paragraphs.one') }</p>
 
-            <Router>
-                <div className="actions mt-4">
-                    <Link to="/contact" className="btn btn-success btn-call-us fs-6 fw-bold me-2">{ t('buttons.callus') }</Link>
-                    <Link to="/about" className="btn btn-primary btn-more-info fs-6 fw-bold">{ t('buttons.moreinfo') }</Link>
-                </div>
-            </Router>
+            <div className="actions mt-4">
+                <Link to="/contact" className="btn btn-success btn-call-us fs-6 fw-bold me-2">{ t('buttons.callus') }</Link>
+                <Link to="/about" className="btn btn-primary btn-more-info fs-6 fw-bold">{ t('buttons.moreinfo') }</Link>
+            </div>
         </>
     );
 }

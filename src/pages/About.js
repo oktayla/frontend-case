@@ -1,7 +1,9 @@
-import {useTranslation} from 'react-i18next';
+import { useTranslation } from 'react-i18next';
 
 const About = () => {
     const { t } = useTranslation('about');
+
+    const items = t('info_items', {returnObjects: true});
 
     return (
         <>
@@ -12,11 +14,9 @@ const About = () => {
 
             <h3 className="h5 fw-bold">{ t('info_title') }</h3>
             <ul className="list-group list-group-flush">
-                <li className="list-group-item">An item</li>
-                <li className="list-group-item">A second item</li>
-                <li className="list-group-item">A third item</li>
-                <li className="list-group-item">A fourth item</li>
-                <li className="list-group-item">And a fifth one</li>
+                {items && items.map((item, index) => (
+                    <li className="list-group-item" key={index}>{ item }</li>
+                ))}
             </ul>
         </>
     );

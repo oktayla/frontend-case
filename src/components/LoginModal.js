@@ -42,15 +42,15 @@ const LoginModal = ({open, handleLogin, handleClose}) => {
                 <form onSubmit={handleSubmit}>
                     <div className="my-3">
                         <label className="form-label">{ t('labels.name') }</label>
-                        <input name="name" type="text" className="form-control" placeholder="John Doe" onChange={e => setName(e.target.value)} required />
+                        <input name="name" type="text" className="form-control" placeholder={ t('placeholders.name') } onChange={e => setName(e.target.value)} required />
                     </div>
                     <div className="my-3">
                         <label className="form-label">{ t('labels.email') }</label>
-                        <input name="email" type="email" className="form-control" placeholder="mail@example.com" onChange={e => setEmail(e.target.value)} required />
+                        <input name="email" type="email" className="form-control" placeholder={ t('placeholders.email') } onChange={e => setEmail(e.target.value)} required />
                     </div>
                     <div className="my-3">
                         <label className="form-label">{ t('labels.password') }</label>
-                        <input name="password" type="password" className="form-control" placeholder="Password" onChange={e => setPassword(e.target.value)} required />
+                        <input name="password" type="password" className="form-control" placeholder={ t('placeholders.password') } onChange={e => setPassword(e.target.value)} required />
                     </div>
 
                     <div className="row gx-2">

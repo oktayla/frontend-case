@@ -8,6 +8,11 @@
     "phone": "Telefon Numaranız",
     "country": "Ülke Seçiniz"
   },
+  "placeholders": {
+    "name": "Can Yılmaz",
+    "email": "isim@eposta.com",
+    "message": "Bir mesaj yazınız..."
+  },
   "select_country": "Ülke seçiniz...",
   "countries": [
     { "value": "TR", "label": "Türkiye" },

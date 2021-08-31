@@ -5,5 +5,12 @@
     "two": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis culpa cupiditate deleniti, dolor eos ex facilis iusto laborum magni natus neque nostrum odio odit officiis perferendis ratione soluta tempora voluptatem.",
     "three": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquam dolor facere ipsam maiores molestiae necessitatibus nemo neque non obcaecati odit pariatur perspiciatis quam qui sint sunt veniam, voluptate voluptatem."
   },
-  "info_title": "Some Information"
+  "info_title": "Some Information",
+  "info_items":  [
+    "An Item",
+    "Second Item",
+    "Third Item",
+    "Fourth Item",
+    "And a fifth one"
+  ]
 }

@@ -5,5 +5,12 @@
     "two": "Sarmal açılmadan dolayı mıknatıslı okuma sayfası balıkhaneye değerli olduğu için otobüs gül sıradanlıktan karşıdakine koştum ama masanın cezbelendi türemiş sıfat.",
     "three": "Dergi gördüm ve koyun şafak layıkıyla layıkıyla bilgisayarı sarmal açılmadan dolayı patlıcan telefonu çakıl. Lambadaki çakıl filmini mi dergi uzattı."
   },
-  "info_title": "Biraz daha bilgi"
+  "info_title": "Biraz daha bilgi",
+  "info_items":  [
+    "Birinci Madde",
+    "İkinci Madde",
+    "Üçüncü Madde",
+    "Dördüncü Madde",
+    "Bu da Beşinci Madde"
+  ]
 }

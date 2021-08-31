@@ -5,6 +5,11 @@
     "email": "Email",
     "password": "Password"
   },
+  "placeholders": {
+    "name": "John Doe",
+    "email": "name@mail.com",
+    "password": "Password"
+  },
   "login": "LOGIN",
   "logout": "Logout"
 }

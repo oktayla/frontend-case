@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import LoginModal from "./LoginModal";
 import UserInfo from "./UserInfo";
+import eventBus from "../eventBus";
 
 const Login = () => {
     const { t } = useTranslation('navbar');
@@ -19,12 +20,14 @@ const Login = () => {
         if( !localStorage.userInfo ) {
             localStorage.setItem('userInfo', JSON.stringify(userData));
             setUserInfo(userData);
+            eventBus.dispatch('onLogin', userData);
         }
     }
 
     function logOut() {
         localStorage.removeItem('userInfo');
         setUserInfo({});
+        eventBus.dispatch('onLogout', {});
     }
 
     function hideModal() {

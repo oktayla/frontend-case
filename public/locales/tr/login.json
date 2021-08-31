@@ -5,6 +5,11 @@
     "email": "E-Posta",
     "password": "Şifre"
   },
+  "placeholders": {
+    "name": "Can Yılmaz",
+    "email": "isim@eposta.com",
+    "password": "Şifre"
+  },
   "login": "GİRİŞ",
   "logout": "Çıkış"
 }

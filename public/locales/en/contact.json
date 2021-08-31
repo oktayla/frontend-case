@@ -8,6 +8,11 @@
     "phone": "Your Phone",
     "country": "Select Country"
   },
+  "placeholders": {
+    "name": "John Doe",
+    "email": "name@mail.com",
+    "message": "Type a message..."
+  },
   "select_country": "Select Country...",
   "countries": [
     { "value": "TR", "label": "Turkey" },
